@@ -59,7 +59,7 @@ A partir dessa análise, foram definidos cenários de teste considerando:
 
 Os cenários e casos de teste criados para a aplicação estão documentados na planilha abaixo:
 
-https://docs.google.com/spreadsheets/d/1z-e4mXtVGOTId9fYEDOv6RPDnt3vQgD2fcGF6-cMKm8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1z-e4mXtVGOTId9fYEDOv6RPDnt3vQgD2fcGF6-cMKm8/edit?gid=0#gid=0
 
 ---
 
